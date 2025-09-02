@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(221, 162, 206);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*Seletor de classe */
+.central{
+    text-align: center;
+}
+.item-menu{
+    display: inline;
+    margin: 0.6rem;
+    background-color: antiquewhite;
+    padding: 0.7rem;
+    border-right-style: solid;
+    border-color:rgb(196, 123, 183);
+
+}
+.item-menu :hover{
+   background-color: rgb(162, 131, 190);
+}
+
+.item-menu a:hover{
+    text
+
+}
+
